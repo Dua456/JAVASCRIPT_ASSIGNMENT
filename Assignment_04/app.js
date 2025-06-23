@@ -20,7 +20,7 @@ if (gender == "male") {
 
 //3. Write a program to take input color of road traffic signal from the user & show the message according to this table:
 
-// User se traffic signal ka color le rahe hain
+// User se traffic signal ka color le rahe ha
 var color = prompt("Enter traffic signal color (Red, Yellow, Green):");
 
 // Ab har color ke hisaab se message show karenge
